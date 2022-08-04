@@ -11,7 +11,7 @@
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "backup_ads_rewards":"",
-      "survey_api_key":"",
+      "survey_api_key":"REPLACE_WITH_YOUR_APP_API_KEY",
       "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
